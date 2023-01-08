@@ -1,0 +1,19 @@
+id: ADBB28095
+title: Aspiration for the Four Activities
+type: translation
+pechas:
+- I34E5E735
+- I2AD78225
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:04:36.943620
+  last_modified_at: 2023-01-04 13:04:36.943629
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I34E5E735/841D: '9884'
+  I2AD78225/AD4A: '9884'
